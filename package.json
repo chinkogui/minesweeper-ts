@@ -1,0 +1,30 @@
+{
+  "name": "minesweeper-node",
+  "version": "1.0.0",
+  "description": "Help for a friend new to programming. It is a minesweeper style game, but with a single enemy. You will have to find the enemy by its coordinates.",
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinkogui/minesweeper-ts.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "game"
+  ],
+  "author": "Guilherme Chinko <chinkogui@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinkogui/minesweeper-ts/issues"
+  },
+  "homepage": "https://github.com/chinkogui/minesweeper-ts#readme"
+}
